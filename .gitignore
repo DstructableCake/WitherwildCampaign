@@ -1,0 +1,35 @@
+# Obsidian
+.obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/graph.json
+.obsidian/canvas.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# iCloud
+*.icloud
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Personal/private notes (if any)
+# Add any files you don't want to commit here
+
