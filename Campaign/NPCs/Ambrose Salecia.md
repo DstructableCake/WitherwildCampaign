@@ -2,7 +2,7 @@
 aliases:
   - Ambrose
 share_link: https://share.note.sx/c8u7s0pm#68TQFcsYyLeJ1MBRsYo+hyXe4iQfjxVeftfBAyiQmAY
-share_updated: 2025-08-07T07:38:09+01:00
+share_updated: 2025-12-21T10:38:41+00:00
 ---
 ![[Ambrose Portrait.png|300]]
 ## Playing Ambrose
@@ -37,6 +37,12 @@ DM
 - **Instructed Sabriel** to keep eyes open and trust no one outside their circle
 - **Requested letter be burned** after reading
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- **Received letter from Sabriel** at Serpents Hope farms
+- **Letter contents:** Report of Leshen sighted at farms, guiding force behind corruption
+- **Sabriel wrote of:** Coordinated attacks in daylight that spoke to intelligence and strategy far beyond mindless beasts
+- **Words carried weight** of soldier who had seen too much, understood enemy was not just corruption itself but something—or someone—directing it
+
 ### **Current Status**
 - **Location:** Haven (presumed)
 - **Relationship with Party:** Trusted contact for Sabriel
@@ -45,5 +51,6 @@ DM
   - Creatures growing larger with each encounter
   - Something watching from deep places
   - Research division struggling to keep up
+  - Leshen and coordinated attacks showing intelligent direction
 
 ## Stat Block

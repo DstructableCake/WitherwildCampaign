@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "Silent" Mara
-  - Mara
-share_link: 
-share_updated: 
+  - mara
+share_link: https://share.note.sx/c140745o#yZT7YU3lZlAcqKuW9bJr/hmOTiQMPYgIQg8+GMUjp1Y
+share_updated: 2025-12-21T10:44:21+00:00
 ---
+
 
 # "Silent" Mara
 
@@ -129,25 +129,34 @@ Create a detailed, realistic portrait of a lean, agile Ribbet smuggler in a fant
   - Supporting rebel operations through navigation
 - **Relationship with Party:** Can provide routes if trust gained
 
-### Session 9 - Alula Arc
+### Session 9: Eyes in the Canopy
 
-**The Secret Routes**
-- Knows paths to Fanewraith's base (Location 6C)
-- Can guide to hidden areas and secret entrances
-- Understands city's vertical navigation
-- Key to accessing hidden locations
+**The Tavern Encounter**
+- **Met party at Sump Lantern Tavern** in Alula
+- **Approached table** after Sabriel slid out chair as invitation
+- **Introduced herself as Mara:** Young female Ribbet, face partially hidden but skin unmistakable
+- **Moved with bounce** in step, settled into offered chair with practiced ease
+- **Recognized pseudonyms:** Fern as 'Celeste', Sabriel as 'Tarn'—knew they were false names but said it was common
 
-**The Navigation Support**
-- Can help PCs navigate city undetected
-- Knows guard patrols and surveillance
-- Understands how to avoid detection
-- Provides critical support for stealth missions
+**The Job Offer**
+- **Got straight to business:** Asked if they were looking for work
+- **Warned:** Jobs available but could verge on deadly if caught
+- **Opportunities only** for those in need of coin or favor, willing to take risks
 
-**The Smuggling Network**
-- Connected to smuggling and rebel networks
-- Knows coded meetings and communication
-- Can provide access to hidden areas
-- Shows depth of underground operations
+**The Information Trade**
+- **Sabriel bartered:** Traded stories of journey, battle at Serpents Hope, threats they faced
+- **Explained transport system:** Ziplines and pulleys connecting different levels of Alula
+- **Mentioned Astronomer's Tower:** Had pulley system from base of tree
+- **Limited knowledge:** Answers vague when asked about Fianna's father
+- **Warning about Fanewraith:** "I don't know, and even if I did, you shouldn't seek her. Danger always follows those who ask such questions"
+
+**The Cursed Name**
+- **Prepared to leave** after information exchange
+- **Left card** with froggy thumbprint insignia pointing directions to refugee camp
+- **Sabriel called her back:** Asked about Elowen
+- **Immediate reaction:** Hushed him, eyes darting around tavern
+- **Warning:** "That name is cursed around this place. Be careful who you speak it to"
+- **Clear message:** Some names carried death with them in Alula
 
 ## Notes for Play
 

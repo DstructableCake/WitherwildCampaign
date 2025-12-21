@@ -2,7 +2,7 @@
 aliases:
   - Sabriel
 share_link: https://share.note.sx/2whef3v5#T/gN/pllow3tqLiJp6egYrqHWVmkHrsSxf8xeIfiAcY
-share_updated: 2025-11-13T00:16:07+00:00
+share_updated: 2025-12-21T10:38:08+00:00
 ac: "3"
 hp: "7"
 level: "2"
@@ -158,11 +158,57 @@ DM
 - Exchanged nod of respect with **Quartermaster Brill**
 - Prayed to cleanse corruption from himself and honor the fallen
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- Took long rest at **Serpents Hope** farms after siege
+- **Composed letters** during recovery time
+- **Sent letter to Ambrose Salecia:** Wrote of Leshen sighted at farms, guiding force behind corruption, coordinated attacks in daylight showing intelligence and strategy
+- **Sent letter to Mathias Vanta:** Mirrored **Snicket's** warnings to **Delilah**, ensuring priest knew of coming scarcity and need for caution
+- Letters felt like anchors, connections to world they were leaving behind
+- Traveled north from farms, leaving Haven's ordered fields behind
+- Crossed border stone marking threshold into Fanewick wilds
+- Encountered **Silas "Thornfoot"** on Riverwalker ground—guardian recognized Haven armor, was wary but judged by actions
+- Met **Elder Lyra Willowbrook** at Riverwalker campfire
+- Helped party purify tainted ford upstream on way to Alula
+- Witnessed discovery of Theodore's broken lute and Brindle's antler fragment at ambush site
+- Arrived at Alula's gates, saw Elowen's message and warm minty soup left for party
+
+### **Session 9: Eyes in the Canopy**
+- Entered **Alula** with **Fern** as refugees, paid gold coin for entry
+- Guard watched them intently as they passed through
+- Decided to gather information at **Sump Lantern Tavern** with **Fern**
+- Sat in corner of tavern, watched shady dealings and hooded figures
+- **Invited Silent Mara over** by sliding out chair and looking away
+- Introduced himself as 'Tarn' (pseudonym), **Fern** as 'Celeste'
+- **Mara** recognized false names but said it was common in Alula
+- **Bartered for information:** Traded stories of journey and Serpents Hope battle
+- Learned about ziplines and pulleys, Astronomer's Tower pulley system
+- Asked about **Fianna's** father subtly, mentioning struggle at gate
+- Asked how to find **Fanewraith**—**Mara** warned: "Danger always follows those who ask such questions"
+- Received **Mara's** card with froggy thumbprint pointing to refugee camp
+- **Examined card**, saw froggy thumbprint map
+- **Called Mara back** before she left, asked about **Elowen**
+- **Mara hushed him:** Name was cursed around this place, be careful who you speak it to
+- **Simiah bartender** informed them rooms were ready, paid for by "friend"
+- **Exchanged suspicious looks** with **Fern** about who paid
+- Followed directions deep into tree, descending spiral stairs underground
+- Found room with **Demetrius** (Elowen's mole) waiting on bed
+- Followed **Demetrius** through hidden passage, crawling hundreds of meters underground
+- Reached **Elowen's** hovel untouched by Witherwild corruption
+- Met **Elowen** who revealed **Fanewraith's** true identity as **Elara Voss**, her niece
+- Learned **Elara's** transformation story—from gentle healer to Fanewraith after losing everything
+- Heard about **Elara's** role in stealing Reaping Eye, gaining control over Alula
+- Received warning: "In the canopy, every branch has eyes. Trust the ones that do not look back"
+- Learned about twisted vine tree where prisoners are kept
+- **Strategic consideration:** Thought it better to attack **Fanewraith** outside of Alula
+- Learned **Elara's** control goes right to top of council—some turned and corrupted, but not all
+
 ### **Current Status**
 - **Level 2** with repaired armor and renewed purpose
 - Knowledge of **Fanewraith's** plans and **Kreil's** revelations
 - Understanding of the broader conflict between Haven and Fanewick
-- Ready to journey to **Alula** to confront **Fanewraith**
+- **Met real Elowen**, learned **Fanewraith's** true identity and history
+- **Strategic awareness** that attacking outside Alula might be better
+- In **Alula** seeking answers, aware that every move is watched
 
 ## **Locations:** 
 - Hometown (deserted, statue-filled chapel); 

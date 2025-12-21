@@ -3,7 +3,7 @@ aliases:
   - Kreil
   - Spymaster
 share_link: https://share.note.sx/7nej4qt4#luOzkzKrF6xS8xWI6Jafg5Nbgs3HuZTlQhxgtMfoims
-share_updated: 2025-10-11T14:30:35+01:00
+share_updated: 2025-12-21T10:38:34+00:00
 ---
 ![[Kreil Durn Portrait.png|400]]
 
@@ -110,6 +110,12 @@ DM
 - **Escaped on great stag** summoned by Fianna
 - **Left instructions** pointing way to Alula (found on decapitated guard)
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- **Received coded message from Snicket** at Serpents Hope farms
+- **Message contents:** Description of elderly woman (Elowen) met at dawn with mole companion Demetrius
+- **Details included:** Her location, demeanor, strange perspective on tainted creatures
+- **Message noted:** In world of shadows and secrets, even most innocent-seeming encounters could hold significance
+
 ### **Current Status**
 - **Location:** Unknown (escaped to Haven)
 - **Relationship with Party:** Trusted ally, revealed major secrets
@@ -117,6 +123,7 @@ DM
   - Stop Fanewraith's Sowing Eye theft
   - Prevent Haven's collapse
   - Broker fragile peace between Haven and Fanewick
+- **Received intelligence** about Elowen encounter from party
 - **Available Services:**
   - Intelligence network access
   - Safe house locations

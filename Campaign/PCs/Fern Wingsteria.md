@@ -2,7 +2,7 @@
 aliases:
   - Fern
 share_link: https://share.note.sx/f3xqarb6#ro625/msl6+FlXYpW+0U/9k00GcRuU1GJSvOTRzdh6Y
-share_updated: 2025-11-13T00:15:53+00:00
+share_updated: 2025-12-21T10:37:45+00:00
 level: "2"
 ac: "3"
 hp: "6"
@@ -139,11 +139,54 @@ DM
 - Delivered killing blow with lightning bolt that destroyed the Leshen
 - Collected samples after battle: Glasswing Moth shards and other creature remains
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- Took long rest at **Serpents Hope** farms after siege
+- Found quiet corner to commune with Nikta, seeking guidance for **Fianna** about grove preparedness
+- **Deceptive vision:** Saw idyllic Whitefeather Circle grove—too perfect, bathed in golden light, everything fine
+- Felt nagging sense that perfection was too complete, too polished, lacking real imperfections
+- Vision message: grove was safe, prepared, in no danger (but felt suspiciously perfect)
+- Traveled north from farms, leaving Haven's ordered fields behind
+- Crossed border stone marking threshold into Fanewick wilds
+- Encountered **Silas "Thornfoot"** on Riverwalker ground
+- Met **Elder Lyra Willowbrook** at Riverwalker campfire, recognized for eclipse-hedge nature
+- Discovered **Qui'Gar's** shrine near river path—found gift: cake slice with bioluminescent thorny sprout
+- Received whisper: "A gift for the one who remembers the sweetness of endings... Tend it well, and it may grow to serve rather than consume"
+- Helped party purify tainted ford upstream on way to Alula
+- Arrived at Alula's gates, saw Elowen's message and warm minty soup left for party
+
+### **Session 9: Eyes in the Canopy**
+- Entered **Alula** with **Sabriel** as refugees, paid gold coin for entry
+- Guard watched them intently as they passed through
+- Decided to gather information at **Sump Lantern Tavern** with **Sabriel**
+- **Fianna** warned **Gnirth** of destination, but **Gnirth** cautioned connection might be compromised
+- Sat in corner of tavern, watched shady dealings and hooded figures
+- **Sabriel** invited **Silent Mara** over by sliding out chair
+- Introduced herself as 'Celeste' (pseudonym), **Sabirth** as 'Tarn'
+- **Mara** recognized false names but said it was common in Alula
+- Learned about ziplines and pulleys from **Mara**, information about Astronomer's Tower
+- Received **Mara's** card with froggy thumbprint pointing to refugee camp
+- **Sabriel** asked about Elowen—**Mara** hushed him, warned name was cursed
+- **Simiah bartender** informed them rooms were ready, paid for by "friend"
+- Followed directions deep into tree, descending spiral stairs underground
+- Found room with **Demetrius** (Elowen's mole) waiting on bed
+- Followed **Demetrius** through hidden passage, crawling hundreds of meters underground
+- Reached Elowen's hovel untouched by Witherwild corruption
+- **Connection blocked:** Tried to reach **Gnirth** but something blocked her Fungril network powers
+- Met **Elowen** who revealed Fanewraith's true identity as Elara Voss, her niece
+- Learned Elara's transformation story—from gentle healer to Fanewraith after losing everything
+- Heard about Elara's role in stealing Reaping Eye, gaining control over Alula
+- Received warning: "In the canopy, every branch has eyes. Trust the ones that do not look back"
+- Learned about twisted vine tree where prisoners are kept
+- Gave **Elowen** cake in thanks before leaving
+
 ### **Current Status**
 - **Level 2** with permanent dark stains under eyes from Bolgin communion
-- Connected to **Gnirth** through warped Fungril network
+- Connected to **Gnirth** through warped Fungril network (may be compromised)
 - Seeking to restore balance and save her corrupted grove
 - Knowledge of major plot elements (Eyes, Fanewraith, Veilshade)
+- Received **Qui'Gar's** gift—bioluminescent thorny sprout to tend
+- Met real **Elowen**, learned Fanewraith's true identity and history
+- In **Alula** seeking answers, aware that network may be monitored
 
 ## **Locations:** 
 - [[Village of Mysteria]] (bioluminescent grove, Fanewick heart)

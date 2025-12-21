@@ -2,7 +2,7 @@
 aliases:
   - Mathias
 share_link: https://share.note.sx/z5w2bclt#kicnpgb4egPgePKwPjMZ9j5v2/JqsFxPOPCpv5geL4M
-share_updated: 2025-08-17T23:20:01+01:00
+share_updated: 2025-12-21T10:38:46+00:00
 ---
 
 ![[Mathias Portrait.png|300]]
@@ -105,9 +105,15 @@ DM
 - **Earned quiet thanks** from Mathias for easing his vigil
 - **Party departed** as Nightveil began
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- **Received letter from Sabriel** at Serpents Hope farms
+- **Letter contents:** Mirrored Snicket's warnings to Delilah, ensuring priest knew of coming scarcity and need for caution
+- **Letters felt like anchors:** Connections to world they were leaving behind, promises they would not be forgotten
+
 ### **Current Status**
 - **Location:** Monks Eliegh chapel
 - **Relationship with Party:** Deeply grateful, especially to Sabriel
+- **Received warnings** about coming scarcity and need for caution
 - **Available Services:**
   - Spiritual guidance and comfort
   - Safe haven in chapel

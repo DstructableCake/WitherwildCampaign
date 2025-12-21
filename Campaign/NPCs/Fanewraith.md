@@ -1,113 +1,9 @@
 ---
 aliases:
-  - Elara Voss
-share_link: 
-share_updated: 
----
-
-![[Elowin Campfire Stew.png|400]]
-
-# Fanewraith (Elara Voss)
-
-## Playing Character
-
-Wickling druid turned insurgent architect. A patient listener who feeds you warmth and truth, then steers you with silence. Dresses in thorn-stitched robes that shift like leaves in a current; eyes hold dawn’s first green.
-
-**Hooks**
-- Gentle kindness hides rigorous calculus
-- Speaks in proverbs that double as orders
-- Never wastes a question
-
-## Class & Domains (Level 8)
-
-- Class: Druid (primary)  
-- Multiclass: Ranger 2 (skirmish instinct, fieldcraft)  
-- Domains: Sage & Arcana  
-- Evasion: 12  
-- Hit Points: 9  
-- Armor: Light barkweave (1 slot), hidden bramble wards
-
-## Features
-
-- Beastform (Druid): Uses Tier 2 forms most often (Powerful Beast, Striking Serpent) to dominate space or control morale.
-- Wildtouch (Druid): Constant micro-gestures—petals stir, embers fold, water listens.
-- Ranger Fieldcraft (MC): Silent approaches, quick retreats, and battlefield reading.
-
-## Domain Cards Prepared
-
-Sage (by level tier):
-- L2: [[Conjure Swarm]] (create pressure, obscure vision, and disrupt formations)
-- L3: [[Corrosive Projectile]] (degrade barriers, equipment, or cover over time)
-- L4: [[Healing Field]] (stabilize multiple allies and establish a safe working area)
-- L5: [[Thorn Skin]] (discourage attackers with reactive protection)
-- L6: [[Conjured Steeds]] (enable rapid travel, extraction, or re-deployment)
-- L8: [[Forest Sprites]] (deploy helpful sprites for scouting, utility, and minor interference)
-
-Arcana:
-- L2: [[Floating Eye]] (remote surveillance and information gathering)
-- L3: [[Counterspell]] (disrupt hostile magic or rituals)
-- L4: [[Blink Out]] (instant reposition, escape, or line-of-sight break)
-- L6: [[Telekinesis]] (move obstacles, disarm, or reposition creatures and objects)
-- L8: [[Arcane Reflection]] (redirect or turn targeted effects back on their source)
-
-## Tactics
-
-- Opens social: Floating Eye already placed earlier; reads party, gifts small boons.
-- First combat round: Conjure Swarm to split lanes, then Blink Out if focused.
-- Midfight: Telekinesis to swing objectives (clank arms, doors, fallen beams). Keeps Healing Field in civilians’ path.
-- Pressure spike: Thorn Skin on a lieutenant (Head Guard, Root-Whip Hulk) to redirect aggro.
-- Exit: Conjured Steeds for cells or herself; Arcane Reflection to punish a key strike.
-
-## Inventory
-
-- Bramble Wards (consumable): Reduce wither damage by 2 for one scene (self or ally).
-- Star-Map of Rootlines: Advantage to navigate farms unseen once per day.
-- Serpent Coins: Network authentication tokens.
-
-## What She Wants
-
-- Short: Disrupt forced growth, evacuate workers willing to go
-- Mid: Force Haven to overextend and negotiate
-- Long: Restore seasonal balance; return the Eyes to rightful altars
-
-## If Cornered (Mechanical Notes)
-
-- Will not Solo. Uses minions/support and exits. If forced to stand:
-  - Beastform: Pouncing Predator (Tier 2) for burst (Instinct d8+6) and Sprint
-  - Sage: Healing Field anchor; Forest Sprites for interference
-  - Arcana: Blink Out, Counterspell as denial; Telekinesis to create distance
-
-## Social Masks
-
-- Elowen (elder): tea and stew, gentle needle-questions
-- Field Handler: terse, clipboard, precise route language
-- Wick Folk Singer: ballad of “the bard who held the night crew”
-
-%%
-## Stat Block (GM Eyes)
-
-Tier: Narrative Boss (PC-equivalent L8)  
-Evasion 12 | HP 9 | Stress 5  
-Beastform access: Tier 2  
-Prepared: Sage (L2,3,4,5,6,8) | Arcana (L2,3,4,6,8)
-
-Signature Sequences
-- Song Then Storm: Floating Eye pre-placed → Conjure Swarm → Blink Out
-- Mercy Hook: Healing Field at civilians → Telekinesis clears path → offers parley
-- Break Their Grip: Thorn Skin on an allied lieutenant → Telekinesis disarms clank
-
-Fear Guidance
-- Low: Petals brighten, subtle pulls
-- Mid: Crowd-control via swarms/roots
-- High: Reflection or mass reposition
-%%
-
----
-aliases:
   - Elara
   - Elara Voss
 share_link: https://share.note.sx/2w9tz9po#t4U/Kf1NDoVUtN6UVytRg3+1oWb95QeYKiEfSqqRHOM
-share_updated: 2025-08-07T07:40:04+01:00
+share_updated: 2025-12-21T10:41:50+00:00
 ---
 
 ![[Fainwraith Portrait.png|400]]
@@ -226,16 +122,48 @@ DM
 - **Party departed** after meal, unaware of true identity
 - **True purpose:** Gathering intelligence on party's movements, plans, and allegiances before coordinated attack on farms
 
+### **Session 9: Eyes in the Canopy**
+
+**The Truth Revealed**
+- **Elowen revealed** Fanewraith's true identity to party in underground hovel
+- **True identity:** Elara Voss, Elowen's niece, in her 30s
+- **Transformation story:** Sweet girl Elowen once knew was dead, replaced by something else entirely
+
+**The Path to Fanewraith**
+- **Few years ago:** Assault on their lands broke Elara
+- **Elara's decision:** Havenites stood against everything natural order was, caused the war
+- **Pushed over edge:** When Elara lost everything, nothing Elowen could say would stop her
+- **Took up mantle:** Transformed from gentle healer into figure of shadow and death
+
+**The Rise to Power**
+- **Built reputation:** Skilled hunter, assassin, link between natural world and spirit
+- **Gained ability:** Somehow gained ability to converse with spirits
+- **Caught Haven's eye:** High command wished to hire her for suicide mission—steal Reaping Eye of Nikta
+- **The theft:** Through connections within Fanewick, led attack on Nikta at weakest point
+- **Stole Reaping Eye:** Disappeared, leaving Nikta to flee back to Astral Realm and abandon mortal world
+
+**The Control of Alula**
+- **Gained control:** Slowly through bribery, shadow tactics, leverage
+- **Eliminated past:** Anyone tied to her past was cut down—only Elowen remained
+- **Elowen escaped:** A while back, but anyone using that name in Alula would be marked and not see next sunrise
+- **Council corruption:** Control goes right to top of council—some turned and corrupted, but not all
+
+**The Warning**
+- **Elowen's message:** "In the canopy, every branch has eyes. Trust the ones that do not look back"
+- **Unknown loyalties:** Elowen doesn't know currently who is loyal to Fanewraith in village
+- **Must be careful:** Party must be careful who they speak to
+
 ### **Current Status**
 - **Location:** Rotating between safehouses (Alula, Low Passage, God's Nest fringes)
-- **Relationship with Party:** Unknown to party (disguised as Elowen), gathering intelligence
+- **Relationship with Party:** True identity revealed by Elowen, party now knows her history
 - **Active Operations:**
   - Coordinated attack on Serpents Hope farms (daybreak assault)
   - Planning Sowing Eye theft during upcoming Rite
   - Building insurgent network and testing party's loyalties
-- **Notes:** Using Elowen disguise to probe party without suspicion, planting seeds for future manipulation
+  - Control over Alula through bribery, shadow tactics, leverage
+- **Notes:** Party now knows her true identity and methods of control
 
-%%
+
 ## Stat Block
 DM
 %%

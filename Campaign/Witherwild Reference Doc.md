@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/stqgq80y#MGc1efQsGb1wVnOFG5dqxhcsUiPrLoKnvoI6rKnpWLo
-share_updated: 2025-11-29T16:30:37+00:00
+share_updated: 2025-12-21T10:44:52+00:00
 banner:
 ---
 # Core Rules 
@@ -38,6 +38,8 @@ banner:
 > [[Session 6 - The Seige of Serpents Hope]]
 > [[Session 7 - The Fall of Serpents Hope]]
 > [[Session 8 - The Lute, the Horn and the Missing Father]]
+> [[Session 9 - Eyes in the Canopy]]
+
 
 
 
@@ -112,7 +114,9 @@ banner:
 > [[Tessa the Handler]]
 > [[Tybella]]
 > [[Campaign/NPCs/Quartermaster Brill|Quartermaster Brill]]
-> 
+> [[Elowen]]
+> [[Mr. Tilde|Mr Tilde]]
+> [[Silent Mara]]
 > 
 
 

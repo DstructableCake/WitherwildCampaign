@@ -19,6 +19,7 @@ The path to Alula climbed steadily, the river's hush fading to a distant murmur 
 
 The entrance to Alula was guarded, watchful eyes scanning every traveler. The party split their approach—a calculated risk, but one that might allow them to blend in better with the city's diverse population.
 
+
 Snicket, Gnirth, and Fianna—the latter transformed into a small cat-bat-mouse hybrid creature—approached as merchants. Their story was simple: they were delivering a package to Mr. Tilde, a legitimate business transaction. The guard listened with practiced skepticism, but the explanation held. With a nod, they were allowed passage, their merchant guise accepted.
 
 Sabriel and Fern took a different route, presenting themselves as refugees seeking shelter. The guard's eyes narrowed slightly, but a gold coin changed hands, and the gate opened. As they passed through, the guard's gaze followed them, intense and unblinking—a warning that their presence had been noted, that they were being watched.

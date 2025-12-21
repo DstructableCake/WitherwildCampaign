@@ -2,7 +2,7 @@
 aliases:
   - Thring
 share_link: https://share.note.sx/k522myte#wsX7sW05Y8fQA++Qjin6rlH4lZhg2ED4ESx5JttnBPM
-share_updated: 2025-11-13T00:16:03+00:00
+share_updated: 2025-12-21T10:37:35+00:00
 level: "2"
 ac: "3"
 hp: "6"
@@ -156,11 +156,40 @@ DM
 - Channeled fire through **Sabriel** to burn webbing and free constrained party members
 - Witnessed Leshen's death and corruption's retreat from fields
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- Took long rest at **Serpents Hope** farms after siege
+- Traveled north from farms, leaving Haven's ordered fields behind
+- Crossed border stone marking threshold into Fanewick wilds
+- Encountered **Silas "Thornfoot"** on Riverwalker ground, explained purpose as travelers seeking passage to Alula
+- Met **Elder Lyra Willowbrook** at Riverwalker campfire
+- Learned about endless spring's impact on Riverwalker life—herds always active, calves born wrong, spirits restless
+- **Lyra recognized** his "drowned place" aura, mentioning Tideveil where "water turned thick and did not want to move"
+- Felt thread of memory he couldn't quite grasp but felt in his bones
+- Helped party purify tainted ford upstream on way to Alula
+- Witnessed discovery of Theodore's broken lute and Brindle's antler fragment at ambush site
+- Arrived at Alula's gates, saw Elowen's message and warm minty soup left for party
+
+### **Session 9: Eyes in the Canopy**
+- Entered **Alula** with **Snicket** and **Fianna** (transformed) as merchants delivering package
+- Reached out to trees and Fungril network, felt strong calling to the East
+- **Disturbing vision:** Vision went dark, saw hundreds of eyes piercing darkness, all focused on him
+- Felt overwhelming sense of being watched from every angle, paranoia settling over him
+- Network connection severed by weight of watching eyes—realized trees themselves had become eyes
+- Used serpent coin to pass through thorned gate checkpoint
+- Descended past refugee checkpoint, saw dark pulsing energy on forest floor below
+- Reached out to **Fern** in tavern, warned her to be careful as connection might be compromised
+- Tried to convey **Mr. Tilde's** information to **Fern** vaguely, aware every word might be overheard
+- Left **Mr. Tilde's** shop with **Snicket** and **Fianna**, noticed increased guards
+- **Snicket** cast invisibility on him and disguised herself as orc to evade guards
+- Delivered package to root cellar keeper in architectural tree area
+- Felt constant sense of being watched through network, unable to trust his own connection
+
 ### **Current Status**
-- **Level 2** with warped Fungril network connection
+- **Level 2** with warped Fungril network connection that may be compromised
 - Knowledge of **Fanewraith's** plans and **Kreil's** revelations
 - Understanding of his connection to the cataclysm and Sowing Eye theft
-- Ready to journey to **Alula** to confront **Fanewraith** and seek answers
+- Disturbing awareness that network is being monitored by unknown forces
+- In **Alula** seeking answers about Theodore and Fanewraith's hideout
 
 ## **Locations:** 
 - Unknown clan site (ritualistic ruins, Fanewick wilds); 

@@ -2,7 +2,7 @@
 aliases:
   - Snicket
 share_link: https://share.note.sx/em4q7sz9#8NrMdKz1sdkfmGgjmXTCUMX/PdWB5jaHdJZ1EgbwWiw
-share_updated: 2025-11-13T00:16:14+00:00
+share_updated: 2025-12-21T10:37:54+00:00
 ac: "3"
 level: "2"
 hp: "6"
@@ -126,11 +126,48 @@ DM
 - Witnessed Leshen's connection to minions—each spider death caused it to roar in pain
 - Survived root binding attack that nearly buried party members
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- Took long rest at **Serpents Hope** farms after siege
+- Composed coded messages during recovery time
+- **Sent message to Delilah Goldtooth:** Warnings about farm's fall, instructions to raise red potion prices, limit sales, increase security
+- **Sent message to Kreil Durn:** Description of **Elowen** (elderly woman with mole companion Demetrius) met at dawn
+- Positioned serpent coin atop package for future checkpoints
+- Traveled north from farms, leaving Haven's ordered fields behind
+- Crossed border stone marking threshold into Fanewick wilds
+- Encountered **Silas "Thornfoot"** on Riverwalker ground
+- Met **Elder Lyra Willowbrook** at Riverwalker campfire
+- Helped party purify tainted ford upstream on way to Alula
+- Arrived at Alula's gates, saw Elowen's message and warm minty soup left for party
+
+### **Session 9: Eyes in the Canopy**
+- Entered **Alula** with **Gnirth** and **Fianna** (transformed) as merchants delivering package to **Mr. Tilde**
+- Guard accepted merchant guise, allowed passage
+- Used serpent coin to pass through thorned gate—guard recognized it, allowed through with nod
+- Descended past refugee checkpoint, saw dark pulsing energy on forest floor below
+- Continued journey to **Shadow Root** section to find **Mr. Tilde's** shop
+- **Mr. Tilde** was abrupt and sarcastic, but handled it with practiced politeness
+- Completed package delivery, received **Tier 2 dagger** (d8+4 damage, Reliable trait) as reward
+- **Mr. Tilde** explained dagger was from mutual party, origins unknown
+- Learned about increased guards due to refugee influx and disrupted trade routes
+- **Mr. Tilde** requested new delivery to somewhere else in Haven—discretion of utmost importance
+- Asked about **Fianna's** father—**Mr. Tilde** warned: "Every sunrise, those who are guilty of treason find themselves on the end of a rope"
+- Left shop with **Gnirth** and **Fianna**, noticed increased guards in area
+- **Dragged Gnirth back into shop**, immediately cast invisibility on him
+- Disguised herself as orc to blend in with city's diverse population
+- Successfully evaded guards, headed to root cellar to deliver **Mr. Tilde's** package
+- Reached architectural tree (3rd tree on left) with thick branches and platforms
+- Descended to root cellar, met bespectacled elf keeper of cellar and "things"
+- Handed over package, which was quickly hidden away
+- **Fianna** got trapped in cage while exploring tunnels—talked keeper into releasing her
+- Left quickly before more nuisance could be caused
+
 ### **Current Status**
 - **Level 2** with expanded smuggling network knowledge
 - Knowledge of **Fanewraith's** plans and **Kreil's** revelations
 - Understanding of Veil distribution corruption
-- Ready to journey to **Alula** to deliver package and find relatives
+- **Delivered package to Mr. Tilde**, received valuable dagger as reward
+- **Accepted new delivery** from **Mr. Tilde** to somewhere else in Haven
+- In **Alula** with limited time before Sunnar dawn and Theodore's potential execution
 
 ## **Locations:** 
 - Haven undercity (shop/base)
