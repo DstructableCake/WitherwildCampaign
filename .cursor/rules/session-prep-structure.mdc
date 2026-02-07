@@ -1,0 +1,45 @@
+---
+description: "Session prep document structure: checkpoints, scenes, read-aloud, senses, Fear, and player spotlights for Witherwild sessions"
+globs: "Campaign/Sessions/**/*.md"
+alwaysApply: false
+---
+
+# Session Prep Structure
+
+When creating or editing session prep (Session N Prep.md, Idea.md, Area Reference, Scene Descriptions), follow this structure so content is runnable at the table.
+
+## Document Layers
+
+- **Session N Idea.md**: Raw ideas, plot seeds, "what if" beats, town/session concepts. No need for full structure here.
+- **Session N Prep.md**: Full runnable prep: title, theme, setting, checkpoints, scenes, inserts, end-of-session hooks.
+- **Session N Area Reference.md**: Location-by-location detail (areas, NPCs, what players find, plot links). Use when a session has many locations (e.g. Alula).
+- **Session N Scene Descriptions.md**: Optional; extended read-aloud and atmosphere for key scenes.
+
+## Prep.md Must-Haves
+
+1. **Header**: Title, Theme (one line), Setting (where and situation).
+2. **Title Card Quote**: One short in-world or thematic quote in `> [!QUOTE]`.
+3. **Session Structure & Timing**: Total time (e.g. 3–3.5 hours). Either linear beats or **checkpoints** that gate story progress (e.g. Checkpoint 1: Arrival → Checkpoint 2: Information gathering → …).
+4. **Party Snapshot**: One-line per PC—name, class/role, current goal or tension. Use wikilinks to Campaign/PCs.
+5. **Story Beats / Checkpoints**: For each checkpoint: what unlocks, what happens, time objective, completion requirements (e.g. "any 2 of 4"), and what it unlocks next.
+
+## Scene Format (per scene)
+
+- **Scene Type** (e.g. Entry | Social | Exploration) and **Checkpoint** number.
+- **Short and/or Long Read-Aloud**: In `> [!QUOTE]` blocks; prose the GM can read as-is. Match Witherwild tone: concrete sensory detail, dark fantasy weight, no modern slang or anachronisms.
+- **Senses**: Five bullets—Sight, Sound, Smell, Touch, Taste. Concrete and specific.
+- **Setting & Beats**: What’s here, what NPCs do, entry options or choices.
+- **Information to Deliver**: What players can learn here (and how).
+- **Fear Usage**: When to spend Fear (Low/Medium/High) and effect (e.g. surveillance, paranoia, tainted discovery).
+- **Player Spotlights**: One prompt per PC—what to offer that character (reaction, choice, skill use).
+- **GM Options / Variations**: If players are cautious, aggressive, or go off-script.
+- **Transition Line**: One sentence to hand off to the next scene or checkpoint.
+
+## Optional Add-Ons
+
+- **Modular Exploration Inserts**: Short, drop-in beats (e.g. serpent coin moment, refugee story) with trigger, beat, Fear use, and info.
+- **End-of-Session Hooks**: Per outcome (e.g. Theodore rescued vs executed)—what carries forward and what Session N+1 might open with.
+
+Keep scenes actionable: the GM should be able to run from the doc without inventing structure on the fly.
+
+**Reference**: For a full worked example of checkpoints, scene format, senses, Fear, spotlights, and modular inserts, see Campaign/Sessions/Session 9/Session 9 Prep.md.
