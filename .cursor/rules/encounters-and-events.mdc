@@ -1,0 +1,45 @@
+---
+description: "Designing encounters, discovery threads, and events with multiple approaches and Daggerheart-appropriate pacing"
+globs: "Campaign/Sessions/**/*.md"
+alwaysApply: false
+---
+
+# Encounters and Events
+
+When outlining encounters, discovery threads, or major events for sessions, design for player agency and Daggerheart tone.
+
+## Multiple Approaches
+
+Every major obstacle or goal should support at least two of: **Social**, **Stealth**, **Combat**, **Information / Investigation**. In session prep, spell out:
+
+- How players can achieve the beat via each approach.
+- Which NPCs or locations support each path.
+- What "completion" looks like (e.g. "any 2 of 4" so one path isn’t mandatory).
+
+Example: "Learn Theodore's location" via Sergeant Korbin (social/trust), Whispering Leaves (information), infiltration (stealth), or confrontation (combat).
+
+## Discovery Threads
+
+- **One clear discovery per thread** (e.g. Theodore’s location, Brindle’s child, Evelyn’s identity).
+- **Where** it can be found (location + NPC or source).
+- **How** it can be found (information, social, stealth, item, confrontation).
+- **Emotional beat**: Which PC is most affected and a one-line prompt for the GM.
+- Cross-thread links: note how threads reinforce each other (e.g. Theodore ↔ Brindle’s child via Fianna).
+
+## Encounters (Combat or Set-Piece)
+
+- **Read-aloud**: Short `> [!QUOTE]` to open the scene.
+- **Senses**: Sight, sound, smell, touch, taste (brief).
+- **Fear usage**: When to spend Fear and what it does (e.g. enemy vanishes, false clue, paranoia).
+- **GM options**: Follow / Confront / Ignore (or equivalent) and consequences.
+- **Statblock** (if needed): Use `> [!STATBLOCK]` or a clear block with Health, Armor, Attack, and 1–2 abilities. Keep Daggerheart-appropriate (stress, hope/fear where relevant).
+
+## Pacing and Stakes
+
+- **Checkpoints** should have clear "completion requirements" so the table knows when they’ve advanced.
+- **Time pressure** (e.g. execution in 2 days) should be stated in prep and reflected in NPC dialogue and scene beats.
+- **Consequences**: Note how success/failure/cliffhanger affects reputation, allies, and next session. Avoid one-shot NPCs for major beats—tie to Campaign/NPCs and ongoing threads.
+- **Modular inserts**: Short exploration beats (e.g. serpent coin moment, refugee story, Floating Eye) can pad or trim session time; define trigger, beat, Fear use, and info to reveal.
+- **Trust and reputation**: When a location has factions (e.g. traditionalists vs rebels), note how PC actions affect trust and what rewards or risks that creates.
+
+When suggesting new encounters or events, align with the current session’s theme and the party’s goals; reference existing NPCs and locations before inventing new ones.

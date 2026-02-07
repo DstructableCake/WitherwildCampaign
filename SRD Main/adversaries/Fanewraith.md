@@ -30,3 +30,4 @@
 
 ***Vulnerable to Redemption - Passive:*** If a PC successfully appeals to Fanewraith's lost family or performs a meaningful act of mercy in her presence, she must make a Presence save (DC 16) or be unable to take hostile actions against that PC for the remainder of the scene. This represents her hidden vulnerability beneath the revolutionary mask.
 
+

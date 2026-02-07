@@ -1,4 +1,4 @@
-# EVELYN DEVOSS - THE MASKED COMMANDER
+ EVELYN DEVOSS - THE MASKED COMMANDER
 
 ***Tier 4 Leader***  
 *A fallen Stone Serpent commander, radicalized by loss and failure, now wielding the wild's thorns as instruments of justice.*  
@@ -27,4 +27,5 @@
 ***The Wild's Judgment - Action:*** Countdown (Decreasing 6). When the Masked Commander is in the spotlight for the first time, activate the countdown. When it triggers, she calls upon the Witherwild's power. All targets within Far range must make an Instinct Reaction Roll. Targets who fail take 3d6+12 direct magic damage and gain the Withered condition (disadvantage on Strength rolls) until they clear at least 1 HP. Targets who succeed take half damage. For each target who fails, summon a Thorn Guard within Very Close range of the Masked Commander.
 
 ***Momentum - Reaction:*** When the Masked Commander makes a successful attack against a PC, you gain a Fear.
+
 

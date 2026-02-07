@@ -1,0 +1,41 @@
+---
+description: "Campaign folder structure, Obsidian wikilinks, and NPC/PC/Lore/Location doc conventions"
+globs: "Campaign/**/*.md"
+alwaysApply: false
+---
+
+# Campaign Wiki Conventions
+
+When creating or editing campaign notes (NPCs, PCs, Lore, Locations, Sessions), follow these conventions so links and structure stay consistent.
+
+## Folder Structure
+
+- **Campaign/Sessions/**: Session N folders; each may contain Session N Prep.md, Idea.md, Area Reference.md, Scene Descriptions.md, and session recap docs.
+- **Campaign/NPCs/**: One file per NPC; subfolders for **Higher Divinities**, **Faint Divinities** if used.
+- **Campaign/PCs/**: One file per player character.
+- **Campaign/Lore/**: World and faction lore (e.g. Knights of the Stone Serpent, Wicklings, Rite of the Turning Gaze).
+- **Campaign/Locations/**: Places (settlements, regions, landmarks).
+- **Campaign/Maps/**: Map references (e.g. DM vs player maps).
+
+Organise new material into the appropriate folder; avoid dumping everything in a single file.
+
+## Wikilinks
+
+- Use **double brackets** for internal references: `[[Theodore Underbrush]]`, `[[Nikta, the Great Owl]]`, `[[Session 6 - The Seige of Serpents Hope]]`.
+- Link to NPCs, PCs, locations, lore, and session docs by their note name (filename without .md).
+- In session prep, link every named NPC, location, and lore element that appears so the GM can jump to the note.
+
+## Obsidian Callouts
+
+- **Read-aloud / quotes**: `> [!QUOTE] Title` for narration or in-world dialogue.
+- **GM notes**: `> [!NOTE]` for optional beats, variants, or reminders.
+- **Info blocks**: `> [!INFO]` for reference or non-secret context.
+- **DM-only secrets**: Wrap in `%% ... %%` (Obsidian comment) or put under a callout titled "DM Only" or "Secret Goals".
+
+## NPC / PC / Lore Doc Patterns
+
+- **NPCs**: Overview, appearance, personality, location, faction alignment, what they know, interaction hooks, plot connection. In Area Reference docs, NPCs often include "Location" (e.g. Tree 2B), "Faction Alignment", "What They Know", "Plot Connection". Use a consistent header level for each.
+- **PCs**: Player name, heritage/community/class, history, what they want, what they know, relations (with wikilinks). DM-only goals in `%%` or a collapsed callout.
+- **Lore**: Overview, history, structure, key figures. Link to related NPCs, locations, and sessions.
+
+When suggesting new NPCs or locations, add them under Campaign/NPCs or Campaign/Locations and link from the session or lore doc that introduces them. Prefer extending existing threads and recurring NPCs over one-off inventions for major beats.
