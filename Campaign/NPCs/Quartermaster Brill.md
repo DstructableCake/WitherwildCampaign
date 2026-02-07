@@ -3,7 +3,7 @@ aliases:
   - Brill
   - Quartermaster
 share_link: https://share.note.sx/zet9m2o7#l6jtQz+8kclF674er7GuhxkPawgNPeRq+8D8pkjGTo0
-share_updated: 2025-11-13T00:17:14+00:00
+share_updated: 2025-12-21T10:38:16+00:00
 ---
 
 # Quartermaster Brill
@@ -67,6 +67,16 @@ Quartermaster Brill is the local Haven commander responsible for overseeing Serp
 - **Witnessed tainted fields** that may never bloom again
 - **Oversaw body recovery** and return to Haven for proper rites
 - **Acknowledged countless lives saved** in barracks and civilian areas thanks to party's actions
+
+### **Session 8: The Lute, the Horn and the Missing Father**
+- **Oversaw recovery period** at Serpents Hope farms in days following siege
+- **Voice had gone hoarse** from shouting during battle
+- **Managed warehouse repairs**—three walls rebuilt with fresh timber that didn't quite match the old
+- **Supervised Lady's Veil bundles** stacked and tarped, guarded like sleepers on sickbed
+- **Witnessed tainted fields**—wide stretches of soil stained grey-black where ooze had seeped and sank
+- **Coordinated workers** clearing bodies, breaking hardened roots, avoiding worst patches
+- **Said farewells** to party as they prepared to leave for Alula
+- **Acknowledged weight** of what they had accomplished and what had been lost
 
 %%
 

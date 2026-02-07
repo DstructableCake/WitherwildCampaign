@@ -3,7 +3,7 @@ aliases:
   - Thornfoot
   - Silas
 share_link: https://share.note.sx/lfp483s3#Aveg7lzA+wGXMq3sT079d6dDHmgzswNYITzPbd/sYxU
-share_updated: 2025-11-16T12:41:36+00:00
+share_updated: 2025-12-21T10:38:56+00:00
 banner: "![[Silas Thornfoot Portrait.png]]"
 banner_y: 0.0425
 ---
@@ -81,13 +81,16 @@ DM
 
 ## **Campaign Interactions & Quests**
 
-### **Session 8: River of Thorns**
+### **Session 8: The Lute, the Horn and the Missing Father**
 - **Met party on Riverwalker ground** as they approached the campfire
-- **Challenged them** to state their purpose, wary of Haven steel and the smell of ooze
-- **Assessed party's intentions** before allowing them into the camp
-- **Shared information** about Theodore's passage and the state of the river
-- **Offered guidance** on safe paths to Alula if party proves trustworthy
-- **Provided Riverwalker token** (carved river stone or thorn-marked charm) if party earns trust
+- **Stood half in shadow, half on fallen log** above the path
+- **Challenged them:** "Riverwalker ground. You walk it loud. State your hunt, strangers."
+- **Eyes flicked** from Sabriel's armor to Fern's spores to Gnirth's odd veins, then to Fianna's antlers and Snicket's scars
+- **Listened carefully** as party explained purpose—travelers seeking passage to Alula, survivors of Serpents Hope siege, allies to those who respected the land
+- **Judged them** not by words alone but by how they spoke of land, beasts, and kin
+- **Wariness softened slightly** after discussion about world, how things had been getting harder to hunt, how water had been tainted
+- **Recommended** they speak with **Elder Lyra Willowbrook** back at camp
+- **Warned party** as they left: "The path grows harder from here. The river remembers what it used to be, and what it's become. Watch your step."
 
 ### **Current Status**
 - **Location:** Riverwalkers' Hunting Grounds, patrolling the Great River

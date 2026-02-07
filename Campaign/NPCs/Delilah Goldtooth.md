@@ -2,7 +2,7 @@
 aliases:
   - Delilah
 share_link: https://share.note.sx/74in43o4#NTczmVRgIGPuPRdwjry+hjefJQdVtRvCxJBhVKCLprI
-share_updated: 2025-10-11T14:29:32+01:00
+share_updated: 2025-12-21T10:38:25+00:00
 ---
 
 ![[Delilah Goldtooth Portrait.png||300]]
@@ -74,17 +74,24 @@ She set up shop in **Stolen Fen** to take advantage of the white flower trade,
 - **Snicket spoke with her** and other merchants for additional information
 - **No new information** available at the time, but will be in contact if anything changes
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- **Received coded message from Snicket** at Serpents Hope farms
+- **Message contents:** Warnings about farm's fall, instructions to raise red potion prices, limit sales, increase security
+- **Warning clear:** Supplies would be scarce in future, what happened at Serpents Hope was only beginning
+- **Message carried weight** of someone who understood both sides of trade, knew information was currency
+
 ### **Current Status**
 - **Location:** Stolen Fen market
 - **Relationship with Party:** Trusted partner to Snicket, respected by Sabriel
 - **Active Quests:** 
   - Package delivery to Mr Tilde in Alula (assigned to Snicket)
   - Message delivery to Ambrose in Haven (requested by Sabriel)
+- **Received warnings** about supply scarcity and need to increase security
 - **Available Services:**
   - Smuggling network access
   - Local gossip and intel
   - Rare herbs and dust-proof gear
-  - Red flower potion distribution
+  - Red flower potion distribution (prices raised, sales limited)
 
 ---
 %%

@@ -2,7 +2,7 @@
 aliases:
   - Theodore
 share_link: https://share.note.sx/snn9olts#jjuh4Uh2xteYe7aOpWTWRDkhtRRVoBxPtcwSi6cIGvY
-share_updated: 2025-10-11T22:22:44+01:00
+share_updated: 2025-12-21T10:39:13+00:00
 ---
 
 ![[Theodore Underbrush.jpeg|300]]
@@ -107,13 +107,36 @@ Youthful halfling, weather-browned, eyes bright as harbor lights. Cloak bears st
 - **Last known location** near Serpents Hope farms, heading in that direction
 - **Information shared with Fianna** through Elowen's encounter with party
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- **Confirmed sighting:** Elder Lyra Willowbrook reported traveling man with lute passed by Riverwalker camp days previous
+- **Had small horned creature in tow:** Description matched Brindle
+- **Last known location:** Near Riverwalker camp, heading toward Alula
+- **Evidence of struggle found:** Party discovered broken lute and Brindle's antler fragment at ambush site near Alula
+- **Lute recognized:** Fianna identified it as her father's instrument, the one he played for her as child
+- **Area showed signs:** Broken sticks scattered, blood stained ground, tracks leading toward Alula
+- **Trees revealed:** Few days prior, man and animal ambushed by dark creatures
+- **Ambush details:** One creature 8-9 feet tall, two more of normal build, another smaller (halfling-sized)
+- **Description matched:** Inferni assassins (same as Old Weir), working in coordination with something larger
+- **Brindle injured:** Antler fragment told story clearly
+- **Lute damaged:** Instrument broken beyond simple repair in struggle
+- **Fate unknown:** Whether captured or escaped but in danger, evidence clear they were close and needed help
+
+### **Session 9: Eyes in the Canopy**
+- **Mentioned by Mr. Tilde:** When asked about Fianna's father's location
+- **Chilling warning:** "Every sunrise, those who are guilty of treason find themselves on the end of a rope"
+- **Time running out:** Only couple of days left until Sunnar, until sun rose and Theodore's fate would be sealed
+- **Twisted vine tree:** Elowen revealed that was where they usually keep prisoners
+- **May be too late:** Elowen said it may be too late to save Theodore, lot of hidden force that doesn't catch the eye
+
 ### **Current Status**
-- **Location:** Unknown, last seen near Serpents Hope farms
-- **Relationship with Party:** Father of Fianna, sought by party
+- **Location:** Likely held at twisted vine tree in Alula, awaiting execution
+- **Relationship with Party:** Father of Fianna, desperately sought by party
+- **Time critical:** Only days until Sunnar dawn and potential execution
 - **Active Quests:**
   - Tracking Fanewraith in/around Alula
   - Seeking remedies and justice for Nikta
   - Following Kreil's lead toward Alula
+  - **URGENT:** Rescue from twisted vine tree before execution
 
 ## Notes for Play
 

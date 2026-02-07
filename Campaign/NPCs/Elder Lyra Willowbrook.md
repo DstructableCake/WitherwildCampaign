@@ -4,7 +4,7 @@ aliases:
   - Elder Lyra
   - Lyra Willowbrook
 share_link: https://share.note.sx/4tdbv0bo#fdXLRwQXnNg1rUxjFSPf9IY7UNSDvJEEwQg77W3XOos
-share_updated: 2025-11-16T12:47:58+00:00
+share_updated: 2025-12-21T10:39:06+00:00
 banner: "![[Elder Lyra Willowbrook.png]]"
 banner_y: 0.1525
 ---
@@ -82,14 +82,22 @@ DM
 
 ## **Campaign Interactions & Quests**
 
-### **Session 8: River of Thorns**
+### **Session 8: The Lute, the Horn and the Missing Father**
 - **Met party at Riverwalker campfire** during their journey to Alula
-- **Recognized spiritual connections** in Fern and Gnirth immediately
-- **Shared information** about Theodore's passage and troubled state
-- **Discussed Rohkin's restless omens** and the herds' distress
-- **Offered spiritual guidance** about the cosmic threat Fern contacted
-- **Provided safe ritual** for Fern to read animal bones and gain cryptic omens
-- **Warned about deeper currents** than faint divinities, hinting at the tar-black entity
+- **Welcomed them** with storyteller's cadence, voice gentle with low humor
+- **Shared information** around the fire about endless spring's impact on Riverwalker life
+- **Explained:** Herds didn't rest anymore—animals always active, always moving
+- **Revealed:** Calves born year-round, but many born wrong—extra limbs, wrong colors, strange behaviors
+- **Described:** Plants grew wrong, some blooming constantly and exhausting soil, others refusing to grow at all
+- **Spoke of spirits:** Spirits restless, Rohkin's omens confused, river spirits distressed
+- **Discussed Rohkin:** "If you seek to heal beasts, speak with Rohkin. But know this: he is not the only spirit the herds listen to, not anymore."
+- **Studied Gnirth:** "You carry the taste of a drowned place. Tideveil, perhaps. The water there turned thick and did not want to move."
+- **Words struck like physical blow:** Thread of memory Gnirth could not quite grasp but felt in his bones
+- **Confirmed for Fianna:** Traveling man with lute passed by camp days previous, with small horned creature in tow
+- **Description matched Theodore:** Fianna's heart lifted with mixture of hope and fear
+- **Asked party** to help cleanse water upstream on their way to Alula
+- **Warned:** It would be enough to stave off taint for little while, but not forever
+- **Corruption spreading:** Temporary measures were all they could offer
 
 ### **Current Status**
 - **Location:** Traveling, often found at Riverwalker camps or other Wanderborne gatherings

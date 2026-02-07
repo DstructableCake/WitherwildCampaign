@@ -2,7 +2,7 @@
 aliases:
   - Fianna
 share_link: https://share.note.sx/vor5rgaa#7LaMO2Bh9q6DNQY4W5Kr6z0nLOb0m9S3FocdEF/YMGM
-share_updated: 2025-11-13T00:15:58+00:00
+share_updated: 2025-12-21T10:38:04+00:00
 level: "2"
 ac: "4"
 hp: "6"
@@ -126,11 +126,52 @@ DM
 - Drank health potion to recover from wounds
 - Collected samples after battle: 2 intact Bloodwing beaks, 3 sacks of blood, Glasswing Moth shards
 
+### **Session 8: The Lute, the Horn and the Missing Father**
+- Took long rest at **Serpents Hope** farms after siege
+- Offered to help pull wagon or transform if needed for journey
+- Traveled north from farms, leaving Haven's ordered fields behind
+- Crossed border stone marking threshold into Fanewick wilds
+- Encountered **Silas "Thornfoot"** on Riverwalker ground
+- Met **Elder Lyra Willowbrook** at Riverwalker campfire
+- **Lyra confirmed:** Traveling man with lute passed by camp days ago, with small horned creature in tow
+- **Heart lifted with hope and fear:** Theodore was alive, close, but what had happened since?
+- Helped party purify tainted ford upstream on way to Alula
+- **Discovered evidence of struggle:** Found Theodore's broken lute and Brindle's antler fragment at ambush site
+- **Recognized both immediately:** Lute was her father's instrument, antler was Brindle's
+- Area showed signs of struggle—broken sticks, blood stains, tracks leading toward Alula
+- **Spoke to trees** through druidic connection, learned what ancient witnesses saw
+- **Learned:** Few days prior, man and animal ambushed by dark creatures—one 8-9 feet tall, two normal build, one halfling-sized
+- **Realized:** Inferni assassins (same as Old Weir) working with something larger
+- Theodore and Brindle had been together, attacked, Brindle injured
+- Arrived at Alula's gates, saw Elowen's message and warm minty soup left for party
+
+### **Session 9: Eyes in the Canopy**
+- Entered **Alula** with **Snicket** and **Gnirth** as merchants, transformed into cat-bat-mouse hybrid creature
+- Guard accepted merchant guise, allowed passage
+- Reached out to **Gnirth** to warn about tavern destination, but **Gnirth** cautioned connection might be compromised
+- Relayed information about ziplines and pulleys, Astronomer's Tower details to others
+- Continued to **Shadow Root** section with **Snicket** and **Gnirth** to find **Mr. Tilde's** shop
+- **Scurried around shop** in transformed state, investigating corners and crevices
+- **Felt being watched:** Shadow moved in corner of vision, hiding in plain sight, only visible when not looking directly
+- Left shop with **Snicket** and **Gnirth**, needing way past guards to root cellar
+- **Attempted communion with tree:** Reached out to touch tree body, asked where father could be
+- **Disturbing response:** Felt hunger—trees were watching, waiting, seeking nutrients coming at sunrise
+- **Words entered mind:** "Feed. Feed. Feed. Feed."—chant of consumption that taxed thoughts and caused stress
+- **Horrifying realization:** Trees of Alula were active participants, waiting for executions at dawn, ready to consume bodies
+- **Snicket** cast invisibility on **Gnirth** and disguised herself as orc to evade guards
+- Reached root cellar in architectural tree, delivered package
+- **Explored tunnels** in transformed state, found footprints going every which way
+- **Noticed strange prints:** One set headed toward wall and disappeared, as if walking through solid wood
+- **Trapped in cage:** Snapped shut around her, echoing down tunnels
+- **Talked keeper into releasing** cat-bat creature, left quickly with others
+
 ### **Current Status**
 - **Level 2** seeking father and cure for **Brindle**
 - Knowledge that father was sent to **Alula** by **Kreil**
 - Understanding of **Fanewraith's** plans and **Nikta's** situation
-- Ready to journey to **Alula** to find father and confront **Fanewraith**
+- **Found evidence** of Theodore and Brindle's ambush near Alula
+- **Disturbing knowledge** that Alula's trees feed on executed prisoners
+- In **Alula** with limited time before Sunnar dawn and Theodore's potential execution
 
 ## **Locations:** 
 - [[Whitefeather Circle]] (glade home, Fanewick forests); 

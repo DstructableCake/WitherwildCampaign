@@ -2,8 +2,8 @@
 aliases:
   - Tilde
   - Mr Tilde
-share_link: 
-share_updated: 
+share_link: https://share.note.sx/n1f2c2sb#AhQ47RXvWZ0tWaUWPjSgysebGjAxq94tctytifzrjt4
+share_updated: 2025-12-21T10:43:26+00:00
 ---
 
 # Mr. Tilde
@@ -135,25 +135,31 @@ Create a detailed, realistic portrait of a calculating, middle-aged Galapa (anth
   - Package delivery destination for Snicket
 - **Relationship with Party:** Business relationship, can provide goods and information
 
-### Session 9 - Alula Arc
+### Session 9: Eyes in the Canopy
 
 **The Package Delivery**
-- Snicket's contact for package delivery
-- Package contents may be plot-relevant
-- Delivery may open contacts and information
-- Key destination for Snicket's quest
+- **Met Snicket, Gnirth, and Fianna** at his shop in Shadow Root section of Alula
+- **Received package** from Snicket after long journey
+- **Demeanor:** Abrupt and sarcastic, but Snicket handled it with practiced politeness
+- **Fianna explored shop** in transformed state, felt shadow watching her
+- **Rewarded Snicket:** Presented Tier 2 dagger (d8+4 damage, Reliable trait) wrapped in silken cloth
+- **Explained:** Dagger was from mutual party, origins unknown, reward for services rendered
 
-**The Black Market Access**
-- Can provide access to black market goods and services
-- May have information about various threads
-- Can facilitate connections and trades
-- Shows depth of underground economy
+**The Information Exchange**
+- **Snicket asked** about increased number of guards in area
+- **Explained:** Refugees flooding into Alula due to issues spreading across Fanewick
+- **Trade routes disrupted:** Bandits and monster attacks on the rise
+- **City preparing for war:** Whether it wanted to or not
 
-**The Information Source**
-- May have information about Theodore, rebel network, or execution
-- Can provide information about city dynamics
-- Plays both sides, may have diverse information
-- Pragmatic approach can provide unique perspective
+**The New Delivery Request**
+- **Requested Snicket** complete delivery for him to somewhere else in Haven
+- **Emphasized:** Discretion of utmost importance—do not lose it
+- **Snicket agreed** to take on new delivery
+
+**The Chilling Warning**
+- **Snicket asked** about Fianna's father, where he might be held
+- **Mr. Tilde's answer:** "Every sunrise, those who are guilty of treason find themselves on the end of a rope"
+- **Words hung like death sentence:** Only couple of days left until Sunnar, until Theodore's fate would be sealed
 
 ## Notes for Play
 

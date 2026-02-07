@@ -1,8 +1,8 @@
 ---
 aliases:
   - Elowen Voss
-share_link: 
-share_updated: 
+share_link: https://share.note.sx/60iztu1p#XD871xwau9MmsOU5YbIAAzX1IZtFgaRn4d3ww3Tojx8
+share_updated: 2025-12-21T10:42:16+00:00
 ---
 
 # Elowen
@@ -130,25 +130,34 @@ Create a detailed, realistic portrait of an elderly, kind human woman in a fanta
   - Protecting her privacy
 - **Relationship with Party:** Willing to help if shown respect, optional encounter
 
-### Session 9 - Alula Arc
+### Session 8: The Lute, the Horn and the Missing Father
+- **Left message for party** at Alula's gates before their arrival
+- **Message contents:** "Really looking forward to seeing you all again, I really enjoyed our last meet. E"
+- **Left warm minty soup** in bowl at Alula's entrance
+- **Implication clear:** She had known they were coming, known where they were going, and was waiting for them
+- **Party recognized:** Initial was unmistakable—Elowen, the elderly woman they had met at dawn
 
-**The Identity Revelation**
-- Can reveal that Fanewraith used her identity as disguise
-- Explains confusion about "Elowen" identity
-- Provides emotional depth to conflict
-- Shows contrast between past and present
-
-**The Family History**
-- Shares family history and what drove Elara to become Fanewraith
-- Remembers what Elara was like before—gentle, healer, kind
-- Provides perspective on loss and transformation
-- Shows what was lost and what might be regained
-
-**The Healing Knowledge**
-- Can provide healing herbs and knowledge
-- May be relevant to Brindle's child or other needs
-- Shares knowledge about balance and healing
-- Represents alternative to violence
+### Session 9: Eyes in the Canopy
+- **Met party in underground hovel** reached through tunnel dug by Demetrius
+- **Hovel location:** Untouched by Witherwild corruption, built into roots of tree, half-hidden by ground
+- **Welcomed party** with warm stew smell and open door
+- **Confirmed:** Alula was dangerous place where others were right now
+- **Revealed Fanewraith's true identity:** Woman known as Fanewraith was her niece, **Elara Voss**, in her 30s
+- **Told story:** Sweet girl she once knew was dead, replaced by something else entirely
+- **Explained transformation:** Few years ago, assault on their lands broke Elara
+- **Elara decided:** Havenites stood against everything natural order was, caused the war
+- **Pushed over edge:** When Elara lost everything, nothing Elowen could say would stop her
+- **Elara's path:** Built reputation as skilled hunter, assassin, link between natural world and spirit
+- **Reaping Eye theft:** Elara led attack on Nikta at weakest point, stole eye, disappeared
+- **Alula control:** Elara slowly gained control through bribery, shadow tactics, leverage
+- **Family cut down:** Anyone tied to Elara's past was cut down—only Elowen remained
+- **Elowen escaped:** A while back, but anyone using that name in Alula would be marked and not see next sunrise
+- **Warning given:** "In the canopy, every branch has eyes. Trust the ones that do not look back"
+- **Theodore's fate:** Said it may be too late to save Theodore, lot of hidden force that doesn't catch the eye
+- **Twisted vine tree:** Directed party to look toward twisted vine tree—where they usually keep prisoners
+- **Demetrius's limitation:** Withering effect too strong, Demetrius cannot take them directly there but can take them near
+- **Council corruption:** Elara's control goes right to top of council—some turned and corrupted, but not all
+- **Received cake** from Fern in thanks before party left
 
 ## Notes for Play
 
