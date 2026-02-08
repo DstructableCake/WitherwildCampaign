@@ -1,0 +1,48 @@
+---
+description: "Convert Session Notes (raw GM/player notes) into story-style session recaps for players; match style of existing Session 7–9 recaps"
+globs: "Campaign/Sessions/**/Session * Notes.md", "Campaign/Sessions/**/Session * - *.md"
+alwaysApply: false
+---
+
+# Session Notes to Story Recap
+
+## Workflow
+
+After each session, the GM creates a **Session N Notes** file (e.g. `Session 10 Notes.md`) in that session’s folder. It contains raw notes from the GM and players that summarize what happened in the session—shorthand, bullet-like, with [[wikilinks]] to NPCs, PCs, and locations.
+
+The GM then asks for these notes to be **converted into a story-style recap** so they can share it with players. The output is a separate document (e.g. `Session 10 - Ghost of the Past.md`) that reads like a short story but stays faithful to the facts in the notes.
+
+## When to Use This Rule
+
+- When creating or editing a **Session N Notes** file.
+- When **converting Session N Notes into a story-style recap** for players.
+
+## Recap Document Format
+
+Match the structure of existing recaps (e.g. `Session 7 - The Fall of Serpents Hope.md`, `Session 8 - The Lute, the Horn and the Missing Father.md`, `Session 9 - Eyes in the Canopy.md`):
+
+1. **YAML frontmatter** (optional but preferred): `banner`, `banner_y`, `share_link`, `share_updated` as used in other session recap files.
+2. **Title**: `# Daggerheart – Session N Notes` (or equivalent).
+3. **Session metadata**:
+   - **Title:** _Evocative session title_ (e.g. _Eyes in the Canopy_, _The Fall of Serpents Hope_).
+   - **Theme:** One or two sentences capturing mood, stakes, or theme.
+   - **Setting:** One or two sentences placing the session in time and place.
+4. **Body**: Sections with `##` headings that act as scene titles (e.g. "Arrival at the Gates", "The Sump Lantern Tavern"). Use `---` between major sections if desired.
+5. **Ending**: A short closing paragraph that summarizes where things stand and often ends with "The session ended there, with…"
+
+## Style Guidelines for the Recap
+
+- **Voice**: Third-person, past tense. Narrative and descriptive, not bullet points or shorthand.
+- **Factual**: Include only what is stated or clearly implied in the Session Notes. Do not invent events, outcomes, or dialogue. If the notes are ambiguous, keep the recap vague or choose the most plausible reading without adding new plot.
+- **Sensory and concrete**: Use sight, sound, smell, touch where it fits (e.g. "the smell of charred chitin," "the river's hush," "shadows and visages"). Match the dark-fantasy tone of the campaign (Witherwild, Fanewick, consequences, moral weight).
+- **NPCs and PCs**: Use **Campaign/NPCs** and **Campaign/PCs** to enrich descriptions. Pull appearance, demeanor, roleplay notes, and relations from those files so that named characters feel consistent and vivid (e.g. "a charismatic human scholar in academic robes," "her father's lute, the one he had played for her as a child"). Keep wikilinks: `[[Elder Corin]]`, `[[Fianna Fernwhisperer|Fianna]]`, `[[Alula]]`, etc.
+- **Tone**: Lewis, Tolkien, Rowling, Butcher—moral weight, mythic scope, factions, consequences. No modern slang or anachronisms. Prose should feel like the existing Session 7–9 recaps.
+- **Length**: Expand shorthand into full sentences and paragraphs. Group related beats into coherent scenes. Do not pad with filler; every sentence should add clarity or atmosphere.
+
+## Reference Examples
+
+- **Structure and tone**: `Campaign/Sessions/Session 9/Session 9 - Eyes in the Canopy.md`
+- **Scene breaks and pacing**: `Campaign/Sessions/Session 8/Session 8 - The Lute, the Horn and the Missing Father.md`
+- **Combat and aftermath**: `Campaign/Sessions/Session 7/Session 7 - The Fall of Serpents Hope.md`
+
+When converting Session Notes to a recap, re-read the relevant NPC and PC files in `Campaign/NPCs/` and `Campaign/PCs/` for any characters or locations that appear in the notes, and weave those details into the prose where it fits naturally.
