@@ -1,3 +1,10 @@
+---
+hp: 5
+ac: 2
+---
+
+
+
 # BLADED GUARD
 
 ***Tier 1 Standard***  

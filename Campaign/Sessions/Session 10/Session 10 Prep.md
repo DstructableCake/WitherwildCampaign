@@ -1259,7 +1259,7 @@ Dawn breaks over Alula, painting the sky in shades of orange and red. The Hangin
 - **XP:** 2 per archer
 
 **Evelyn DeVoss (The Masked Commander) - Tier 4 Leader, Difficulty 20**
-- **Full Stat Block:** See [[SRD Main/adversaries/Evelyn DeVoss - The Masked Commander]]
+- **Full Stat Block:** See [[The Masked Commander]]
 - **HP:** 8
 - **Stress:** 5
 - **Armor:** 1d10 damage reduction (Stone Serpent Plate)

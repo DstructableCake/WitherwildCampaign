@@ -3,11 +3,12 @@ aliases:
   - The Mask
   - The Wraith's Hand
   - Evelyn
+  - Tavore Paran
 share_link: 
 share_updated: 
 ---
 
-# Evelyn DeVoss
+# Tavore Paran
 
 ## Playing Character
 

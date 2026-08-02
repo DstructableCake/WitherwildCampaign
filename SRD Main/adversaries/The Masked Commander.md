@@ -1,4 +1,11 @@
- EVELYN DEVOSS - THE MASKED COMMANDER
+---
+hp: 8
+ac: 5
+alias: Tavore Paran
+---
+
+ 
+ Tavore Paran - THE MASKED COMMANDER
 
 ***Tier 4 Leader***  
 *A fallen Stone Serpent commander, radicalized by loss and failure, now wielding the wild's thorns as instruments of justice.*  

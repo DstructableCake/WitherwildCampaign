@@ -1,0 +1,21 @@
+Sabriel tells Gnirth to go follow Fianna while he makes sure Fulg doesnt come back. 
+Gnirth stumbles upon the hold Fianna was dragged down and sees her talisman on the floor. As he picks it up, the sun is blocked by clouds and it gets a bit darker. As he progresses to the village, he notices its getting darker.
+Sabriel puts his sword in the ground, takes out his prayer beads and prays. He believes the Gods create a bottleneck in the circle of life as they dont die, they just get more powerful whereas mortals are in the circle of life. he prays Fulg can carry on to the next life and would not get reborn.
+As he prays, a gold light eminates from him and then this turns into an explosion of life as the bodies around him start decaying and life grows around them.
+He touches the rocks and this disband back to the earth. He gets a vision of the spirit world version of this area, and the link between the mortal world and whatever the spirit affecting it is severed.
+Snicket makes a copy of the map, hoping to be able to sell it. They see signs that they are on the right path following the others. 1/2 a day behind. In the distance, clouds start to form.
+Fianna is galloping through the forest and hears the rumble behind getting closer. She turns herself into an owl and uses some roots tocatapault up above the canopy. Just as she takes off, the work erupts from the ground and almost grabs her but misses. She feels rain on her wings.
+Gnirth is powering forward to try and catch up with Fianna, checking hes not being followed every so often. He sees the thunder ahead and the sky lights up for a second, blinding him as he has a vision of a whirepool. He comes back to himself, brushes himself off and keeps moving.
+Sabriel sees a stone rolling off and graciously allows it to go. Takes out a torch, writes '12 hours' next to it for snicket and fern to see.
+Snicket and Fern arrive at the site hours later and see the torch. Its raining heavily but the torch is still well lit. They see that the flora looks more like how it would have before the WitherWild. They briefly remark on this and so do the people they are with, and the travellers start talking about their youths.
+They see the hole Fianna was taken down and feel something soft flisten and stick to their faces as they pass through. Fern reaches up to touch and and feels stringy. The rain drips down they see sobwebs with rain dripping off of them.
+Snicket uses the dagger to slash them. As the lightning flashes, it illuminates the sillowetts of many spiders. Snicket shouts to the wagon driver 'we need to get a move on', Fern says 'we dont need to be fast, just need to be faster than the people behind us'. The wagon speeds up but gets bogged down by the thick webbing.
+Snicket casts Hypnotic Shimmer to attempt to stun the spiders that are tracking them down. The people they are with start to panic. Her shadows rise up into the webs and starts making different patters and swirls, it hits 2 of them spiders.
+The companions on the wagon try to get off the wagon, Snicket and Fer tag team the spiders, shadow blades form around Snicket, and Fern throws her corrosive stuff. The blades cut through them to take the poison to the spiders, doing severe damage. Then they do the same again, hitting all 3 spiders.
+A spider tries to bite snicket and does some damage.
+Another one tries to web Fern and it has spikes whoch tear into her leg as it tries to restrain her and pull her towards it. The thord sees she is being restrained and tries to attack her, it wraps her legs around her and bites, giving 1 wither damage. Snicket disappears after a flash of lightning and reappears behind the spider that attacked ferm, sneak attacking it and chopping off its head using both daggers. 
+In reaction, the other spider botes fern again causing another withered mark.
+Fern escapes the restraint, Snicket attacks that spider and cots off its legs, and kills it. Fern does corrosive projectiles on the last one, launch it at the spider and melting it. COmbat is over, but they can still see eyes in the distance behind them.
+Snicket and Fern cuts the horse loose, and the people free, and the wagon charges along.
+Fianna makes it to the grove.
+Sabriel tries to catch up with Gnirth.

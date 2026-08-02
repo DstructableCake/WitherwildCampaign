@@ -2,7 +2,7 @@
 banner: "![[Alula Header.png]]"
 banner_y: 0.5
 share_link: https://share.note.sx/ipjlx8gn#dn6IpkuKIvh+ak3QdedAS2KWkHWWG7Me05TSfmoC+IE
-share_updated: 2026-02-08T00:43:23+00:00
+share_updated: 2026-02-08T15:29:11+00:00
 ---
 
 # Daggerheart – Session 10 Notes
