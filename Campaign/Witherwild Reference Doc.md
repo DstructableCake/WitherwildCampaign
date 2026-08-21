@@ -35,11 +35,14 @@ banner:
 > [[Session 3 - Ambush at the Weir]]
 > [[Session 4 - The Assassin and the Communion]]
 > [[Session 5 - The Hidden Market]]
-> [[Session 6 - The Seige of Serpents Hope]]
+> [[Session 6 - The Siege of Serpents Hope]]
 > [[Session 7 - The Fall of Serpents Hope]]
 > [[Session 8 - The Lute, the Horn and the Missing Father]]
 > [[Session 9 - Eyes in the Canopy]]
-> [[Session 10 - Reunion of Fate]]
+> [[Session 10 - Ghost of the Past]]
+> [[Session 12 - The Burning Bridge]]
+> [[Session 14 - The Ant at the Picnic]]
+> [[Session 18 - Eyes in the Web]]
 
 
 
