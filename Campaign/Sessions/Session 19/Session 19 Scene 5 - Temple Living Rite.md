@@ -1,5 +1,5 @@
 ---
-session: 20
+session: 19
 scene: 5
 location: "Zone (17/18) Temple of Nikta and Offering Gardens"
 ---
@@ -96,7 +96,7 @@ Multi-beat Presence exchange, strongest with Sabriel.
 
 ## Transition Triggers
 
-Move to [[Session 20 Scene 7 - The Yank and the Tear]] when:
+Move to [[Session 19 Scene 7 - The Yank and the Tear]] when:
 
 1. Tavore turns or begins to break bindings
 2. Ritual clock reaches 0
