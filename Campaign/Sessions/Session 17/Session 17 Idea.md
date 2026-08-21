@@ -1,4 +1,4 @@
-# Session 18 — Consolidated GM Run Sheet
+# Session 17 — Consolidated GM Run Sheet
 
 **Session Title:** Stones That Speak Wrong  
 **Location:** Whitefeather Circle  

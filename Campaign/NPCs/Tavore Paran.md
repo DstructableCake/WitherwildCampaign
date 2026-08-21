@@ -77,41 +77,11 @@ In Alula, Evelyn appears masked, rarely revealing her name or identity. Most bel
 
 ## Stat Block
 
-%%
-```
-adversary:
-  name: Evelyn DeVoss (The Mask)
-  tier: 3
-  role: Commander (Elite)
-  difficulty: 15
-  thresholds: [10, 15]
-  hp: 8
-  stress: 5
-  armor: 2 (reinforced Stone Serpent gear + wild-grown plates)
-  atk: "+4 (Thorn-Wreathed Blade, Close) — 1d8+4 slashing + 1d4 piercing (thorns)"
-  features:
-    - name: Commander's Presence
-      type: Action
-      description: "Choose an ally within Near. Until the end of the scene, they gain +1d4 to attack rolls and advantage on saves against fear. Mark 1 Stress to affect a second ally."
-    - name: Stone Serpent Training
-      type: Reaction
-      description: "When an attack misses Evelyn, she may make a melee attack against the attacker as a reaction. This represents her defensive training from the Stone Serpent order."
-    - name: The Mask's Authority
-      type: Action
-      description: "Intimidate or command. Target must make a Presence save or be Frightened. Rebels and those who know her reputation have disadvantage."
-    - name: Thorn Wound
-      type: Passive
-      description: "When Evelyn hits with her blade, thorns wrap around the wound. Target takes 1 ongoing piercing damage at the start of each turn until they succeed on a Strength save (DC 14) or receive healing."
-    - name: Tactical Retreat
-      type: Reaction
-      description: "When reduced below half HP, Evelyn may immediately move up to her speed and gain advantage on her next attack. She will not fight to the death alone."
-  xp: 6
-```
+Combat stats live here: [[The Masked Commander]] — **Tier 2 Leader**.
 
-Tactical summary: Evelyn fights with military precision and ruthless efficiency. Opens with Commander's Presence to bolster allies, then uses Stone Serpent Training for defensive counters. The Mask's Authority creates fear and control. Thorn Wound creates ongoing pressure. She will retreat if cornered alone, preferring to fight with support. Her connection to Sabriel may create emotional moments that affect combat.
+**Tactical summary:** Opens with Commander's Presence to empower Fowlbear / rite attendants, then Mask's Authority and Hold the Beat to punish anchor rushes. Riposte on missed attacks. Will not fight to the death alone — Tactical Withdrawal toward support. Sabriel is personal; Former Commander makes that duel sharper without turning her into a Solo.
 
-%%
-
+**Session 20:** Count as 3 Battle Points when she fully enters the fight. Until then, run command pressure without treating her as a second bruiser.
 ## Abilities & Gear (diegetic)
 
 - **The Mask** (owl-and-thorn motifs): Conceals identity, creates intimidating presence, advantage on Intimidation checks

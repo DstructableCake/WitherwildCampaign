@@ -1,12 +1,12 @@
 ---
 tags:
   - session-prep
-session: 17
+session: 16
 banner: "![[Riverwalker Hunting Ground Header.avif]]"
 banner_y: 0.35
 ---
 
-# Session 17 Prep: The Sweet Road and the Thorn Under It
+# Session 16 Prep: The Sweet Road and the Thorn Under It
 
 **Theme:** Fanewick shows its face first, then its teeth.  
 **Setting:** Early **Sunnar** morning, hours after the hunters withdrew at Riverwalker camp. The party travels grove-ward toward [[Whitefeather Circle]] and [[Village of Mysteria]], but does not arrive this session.
@@ -26,7 +26,7 @@ banner_y: 0.35
 | 4. First Wrongness | 20 min | Confirm taint + ritual + extraction overlap |
 | 5. Bitter Ash Smoke | 25 min | Present desperate theology with moral pressure |
 | 6. Challenge Fork | 25-35 min | Resolve one high-cost player choice |
-| 7. Camp at the Edge | 15-20 min | Close on reflection + Session 18 hooks |
+| 7. Camp at the Edge | 15-20 min | Close on reflection + Session 17 hooks |
 
 **Arc:**  
 Act I (Beats 1-3): wonder under strain  
@@ -106,7 +106,7 @@ Use these as motivation engines, not exposition dumps. Most NPCs know fragments,
 - **History:** Precision trapper with personal pride in control and successful capture record.
 - **War awareness:** Medium; knows less politics, more retaliation patterns.
 - **View on conflict:** Personalized and emotional. Reads conflict through humiliation, fear, and vengeance.
-- **Current plan:** Regain credibility after Session 16 and avoid appearing weak in front of crew.
+- **Current plan:** Regain credibility after Session 15 and avoid appearing weak in front of crew.
 - **If engaged deeply:** Might accept a face-saving compromise, but rarely first.
 
 ### [[Tessa the Handler]]
@@ -124,7 +124,7 @@ Use these as motivation engines, not exposition dumps. Most NPCs know fragments,
 | Thread | Truth to run |
 |---|---|
 | Alula fallout | Trade hub damaged, trust fractured, routes rerouted; consequences move through roads, prices, and people |
-| Session 16 hunter outcome | Hunters withdrew, but pressure remains; Sylva memory and humiliation matter |
+| Session 15 hunter outcome | Hunters withdrew, but pressure remains; Sylva memory and humiliation matter |
 | South-east pressure | Keep Spire / pilgrim track / weeping grove as distant foreshadow only |
 | Road scope | Session stays on journey; no grove arrival this session |
 
@@ -751,7 +751,7 @@ Cast: [[Rorik the Lead Hunter]], [[Sylva the Trapper]], [[Tessa the Handler]], 1
 ### Scenarios and Stakes
 
 - **Scenario A - Practical debrief:** Lock route and threat priorities.
-- **Scenario B - Emotional debrief:** Surface guilt, doctrine, and fractures before Session 18.
+- **Scenario B - Emotional debrief:** Surface guilt, doctrine, and fractures before Session 17.
 - **Scenario C - Silent close:** Keep tension unresolved to hard-cut into next session.
 
 ### Why Party Engages / What It Solves
@@ -925,15 +925,15 @@ Use these to make each location feel old, wounded, and still functional.
 - [ ] Decide hunter return now vs ridge-watch only
 - [ ] Pick 3-5 Alula wake inserts for rhythm
 - [ ] Lock haze direction cues (Alula vs grove wrongness)
-- [ ] Note Session 16 creature outcome for hunter tone
+- [ ] Note Session 15 creature outcome for hunter tone
 - [ ] Prep one visual aid: ford sign, split marker, or smoke horizon
 
 ---
 
 ## References
 
-- [[Session 16 Prep]]
 - [[Session 15 Prep]]
+- [[Session 14 Prep]]
 - [[Session 13 Scene 7 - Return to the Riverwalkers]]
 - [[Session 12 Notes]]
 - [[The Riverwalkers' Hunting Grounds]]

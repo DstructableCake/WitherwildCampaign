@@ -1,38 +1,82 @@
 ---
-hp: 8
-ac: 5
-alias: Tavore Paran
+statblock: true
+layout: Daggerheart Adversary
+source: Custom (Witherwild Campaign)
+name: The Masked Commander
+creature: The Masked Commander
+aliases:
+  - Tavore Paran
+  - The Mask
+  - The Wraith's Hand
+  - Evelyn DeVoss
+motives_and_tactics: Command with precision, break traitors, test former allies, hold the rite
+tier: 2
+type: Leader
+description: Fanewraith's masked field commander — once Evelyn DeVoss of the Knights of the Stone Serpent. Owl-and-thorn mask, thorn-wreathed blade, armor of old order plate grown through with living bark.
+attackDetails:
+  - 4
+  - Very Close
+  - Phy
+  - 14 (2d8+5)
+experience: Stone Serpent Tactics +3, Command +2, Intimidation +2
+feats:
+  - name: Stone Serpent Plate - Passive
+    desc: When the Masked Commander takes physical damage, reduce it by 2.
+  - name: Thorn Wound - Passive
+    desc: When the Masked Commander succeeds with a standard attack, thorns bite the wound. The target must mark a Stress or take 1d4 direct physical damage at the start of each of their turns until they clear at least 1 HP or succeed on a Strength Roll (14).
+  - name: Former Commander - Passive
+    desc: Against Sabriel, the Masked Commander's standard attacks deal +2 damage. She has advantage on Presence actions that target him.
+  - name: Commander's Presence - Action
+    desc: Mark a Stress to spotlight up to two allies within Far range. Attacks they make while spotlighted this way deal half damage.
+  - name: The Mask's Authority - Action
+    desc: Spend a Fear to force a Presence Reaction Roll from a target within Close range. On a failure, they mark 2 Stress and become Vulnerable until they clear at least 1 HP. On a success, they mark a Stress. If the target knows her reputation or is a former Stone Serpent, increase the Difficulty of this reaction by 1.
+  - name: Hold the Beat - Action
+    desc: Mark a Stress while within Close range of a Living Rite anchor. Until the Masked Commander is next spotlighted, the next off-pulse crack/swap attempt at that anchor automatically ticks Ritual Hunger by 1 in addition to its normal cost.
+  - name: Stone Serpent Riposte - Reaction
+    desc: When an attack against the Masked Commander fails, mark a Stress to make a standard attack against the attacker.
+  - name: Momentum - Reaction
+    desc: When the Masked Commander makes a successful attack against a PC, you gain a Fear.
+  - name: Tactical Withdrawal - Reaction
+    desc: When the Masked Commander marks half or more of her HP, she may immediately move up to Far range and clear 1 Stress. She will not fight to the death alone — if reduced to 2 HP or fewer with no allies within Close range, she attempts escape unless cornered.
+hp: "7"
+stats:
+  - 15
+  - 12/24
+  - 7
+  - 5
+ac: "2"
 ---
 
- 
- Tavore Paran - THE MASKED COMMANDER
+```statblock
+creature: The Masked Commander
+```
 
-***Tier 4 Leader***  
-*A fallen Stone Serpent commander, radicalized by loss and failure, now wielding the wild's thorns as instruments of justice.*  
-**Motives & Tactics:** Command with precision, break traitors, enforce rebel control, test former allies
+# THE MASKED COMMANDER
 
-> **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 8 | **Stress:** 5  
-> **ATK:** +8 | **Thorn-Wreathed Blade:** Very Close | 4d10+10 phy  
-> **Experience:** Command +3, Intimidation +3, History +2
+***Tier 2 Leader***  
+*Fanewraith's masked field commander — Tavore Paran, once Evelyn DeVoss of the Knights of the Stone Serpent.*  
+**Motives & Tactics:** Command with precision, break traitors, test former allies, hold the rite
+
+> **Difficulty:** 15 | **Thresholds:** 12/24 | **HP:** 7 | **Stress:** 5  
+> **ATK:** +4 | **Thorn-Wreathed Blade:** Very Close | 2d8+5 phy  
+> **Experience:** Stone Serpent Tactics +3, Command +2, Intimidation +2
 
 ## FEATURES
 
-***Relentless (2) - Passive:*** The Masked Commander can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Stone Serpent Plate - Passive:*** When the Masked Commander takes physical damage, reduce it by 2.
 
-***Stone Serpent Plate - Passive:*** When the Masked Commander takes damage, reduce it by 1d10. This represents her reinforced armor mixing Stone Serpent gear with wild-grown plates.
+***Thorn Wound - Passive:*** When the Masked Commander succeeds with a standard attack, thorns bite the wound. The target must mark a Stress or take 1d4 direct physical damage at the start of each of their turns until they clear at least 1 HP or succeed on a Strength Roll (14).
 
-***Commander's Presence - Action:*** Mark a Stress to choose up to three allies within Far range. Until the end of the scene, they gain +1d4 to attack rolls and advantage on saves against fear. Allies affected by this feature deal +1d4 damage on their next successful attack.
+***Former Commander - Passive:*** Against Sabriel, the Masked Commander's standard attacks deal +2 damage. She has advantage on Presence actions that target him.
 
-***The Mask's Authority - Action:*** Mark a Stress to intimidate or command. All targets within Very Close range must make a Presence Reaction Roll. Targets who fail are Frightened until they clear at least 1 HP. Rebels and those who know her reputation have disadvantage on this save. While Frightened, targets cannot take actions that directly oppose the Masked Commander's orders.
+***Commander's Presence - Action:*** Mark a Stress to spotlight up to two allies within Far range. Attacks they make while spotlighted this way deal half damage.
 
-***Thorn Wound - Passive:*** When the Masked Commander hits with her blade, thorns wrap around the wound. The target takes 1 ongoing piercing damage at the start of each turn (bypasses armor) until they succeed on a Strength save (DC 15) or receive healing. Multiple Thorn Wounds stack.
+***The Mask's Authority - Action:*** Spend a Fear to force a Presence Reaction Roll from a target within Close range. On a failure, they mark 2 Stress and become Vulnerable until they clear at least 1 HP. On a success, they mark a Stress. If the target knows her reputation or is a former Stone Serpent, increase the Difficulty of this reaction by 1.
 
-***Stone Serpent Training - Reaction:*** When an attack misses the Masked Commander, she may immediately make a melee attack against the attacker as a reaction. This represents her defensive training from the Stone Serpent order.
+***Hold the Beat - Action:*** Mark a Stress while within Close range of a Living Rite anchor. Until the Masked Commander is next spotlighted, the next off-pulse crack/swap attempt at that anchor automatically ticks Ritual Hunger by 1 in addition to its normal cost.
 
-***Tactical Retreat - Reaction:*** When reduced below half HP, the Masked Commander may immediately move up to Far range and gain advantage on her next attack. She will not fight to the death alone—if reduced to 2 HP or less, she will attempt to escape unless cornered.
-
-***The Wild's Judgment - Action:*** Countdown (Decreasing 6). When the Masked Commander is in the spotlight for the first time, activate the countdown. When it triggers, she calls upon the Witherwild's power. All targets within Far range must make an Instinct Reaction Roll. Targets who fail take 3d6+12 direct magic damage and gain the Withered condition (disadvantage on Strength rolls) until they clear at least 1 HP. Targets who succeed take half damage. For each target who fails, summon a Thorn Guard within Very Close range of the Masked Commander.
+***Stone Serpent Riposte - Reaction:*** When an attack against the Masked Commander fails, mark a Stress to make a standard attack against the attacker.
 
 ***Momentum - Reaction:*** When the Masked Commander makes a successful attack against a PC, you gain a Fear.
 
-
+***Tactical Withdrawal - Reaction:*** When the Masked Commander marks half or more of her HP, she may immediately move up to Far range and clear 1 Stress. She will not fight to the death alone — if reduced to 2 HP or fewer with no allies within Close range, she attempts escape unless cornered.
